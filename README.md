@@ -81,6 +81,9 @@ ADVANCEMENT
 **1** **ADDING A GUI**
 **2** **MORE FEATURES LIKE FULL BENCHMARK**
 
+I'm still working on it. Hope you like it!
+If you have any suggestions, feel free to tell me directly.
+
 
 
 
